@@ -3,6 +3,7 @@
 A simple quiz app that let the students learn about synatic functions, which is known as "Part Of Speech".
 follow this link for more info [https://en.wikipedia.org/wiki/Part_of_speech]
 
+### You can find Client Side and Server Side folder in src folder.
 
 ## Available Scripts
 
